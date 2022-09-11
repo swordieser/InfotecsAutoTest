@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfotecsAutoTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfotecsAutoTest_jar</output-path>
+    <root id="archive" name="InfotecsAutoTest.jar">
+      <element id="module-output" name="InfotecsAutoTest" />
+    </root>
+  </artifact>
+</component>
